@@ -8,5 +8,4 @@ class test{
         char m_private;
     protected:
         char m_protected;
-
 }
